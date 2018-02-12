@@ -1,0 +1,10 @@
+menu = {}
+menu['chicken'] = 14.50
+print menu['chicken']
+
+menu['chapati'] = 25
+menu['staek'] = 50
+menu['beans'] = 70.34
+
+print "There are" + str(len(menu)) + " items on the menu."
+print menu
