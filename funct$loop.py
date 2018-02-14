@@ -1,5 +1,7 @@
 #writnig function down
 
+#function that counts the names that looks a like
+
 def fizz_count(x):
      count = 0
      for item in x:
