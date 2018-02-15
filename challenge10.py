@@ -1,4 +1,4 @@
-#from morse import morse_code
+from morse import morse_code
 
 def morsify(string):
      final_string = ''
